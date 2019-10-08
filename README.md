@@ -1,1 +1,1 @@
-# onlinemediaplayer.github.io
+# onlineplayer.github.io
